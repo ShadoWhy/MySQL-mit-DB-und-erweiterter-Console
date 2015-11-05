@@ -11,4 +11,4 @@ Wenn sich leute dafür bereit stellen. können die mir mal ein Java oder C++ pro
 #####stop
 #####help
 #####cmd
-#####db (db funktioniert nicht jar oder exe fehlt!)
+#####db (funktioniert nicht jar oder exe fehlt!)
